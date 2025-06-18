@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9745f5&center=true&vCenter=true&random=false&width=524&lines=%E2%98%86+Bem+Vindo+ao+Meu+GitHub+%E2%98%86+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9745f5&center=true&vCenter=true&random=false&width=524&lines=%E2%98%86+Welcome+to+My+Profile!+%E2%98%86+" alt="Typing SVG">
   </a>
 </div>
 
-<h3 align="center">💻 Tecnologias & Ferramentas</h3>
+<h3 align="center">💻 Technologies & Tools:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=blue" alt="Java">
@@ -15,15 +15,22 @@
 
 
 
-<h3 align="center">📋 Minhas Estatísticas</h3> 
+<h3 align="center">📋 My GitHub Stats:</h3> 
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=diegombz&theme=midnight-purple&hide_border=true&border_radius=4&mode=weekly"><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegombz&theme=midnight-purple&show_icons=true&hide_border=true">
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegombz&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true"/>
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegombz/diegombz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegombz/diegombz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegombz/diegombz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<h2 align="center">📫 Contato</h2>
+<h3 align="center">📫 Connect With Me!</h3>
 
 <p align="center">
   <a href="mailto:diegopsn23@gmail.com">
@@ -36,4 +43,6 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" alt="GitHub">
   </a>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9745f5&section=footer&reversal=false" alt="Footer Wave"/>
+</div>
