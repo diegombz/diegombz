@@ -19,7 +19,7 @@
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=diegombz&theme=midnight-purple&hide_border=true&border_radius=4&mode=weekly"><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegombz&theme=midnight-purple&show_icons=true&hide_border=true">
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegombz&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombz&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true"/>
 </p>
 
 <div align="center">
